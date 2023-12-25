@@ -1,0 +1,47 @@
+# 1
+initial_temperature = 5
+final_temperature = 0.00001
+max_evaluations = 250000
+Experiment: 100-01
+Average results: 101878.3
+Standard deviation: 46678.12502029189
+
+# 2
+initial_temperature = 5
+final_temperature = 0.001
+max_evaluations = 250000
+Experiment: 100-01:
+Average results: 108485.7
+Standard deviation: 38832.3717703413
+
+# 3
+initial_temperature = 5
+final_temperature = 0.0000001
+max_evaluations = 250000
+Experiment: 100-01
+Average results: 67573.45
+Standard deviation: 44518.81109427227
+
+# 4
+initial_temperature = 1
+final_temperature = 0.00001
+max_evaluations = 250000
+Experiment: 100-01:
+Average results: 41327.35
+Standard deviation: 22660.531289612343
+
+# 5
+initial_temperature = 10
+final_temperature = 0.00001
+max_evaluations = 250000
+Experiment: 100-01:
+Average results: 83054.2
+Standard deviation: 20845.353143086828
+
+# 6
+initial_temperature = 100
+final_temperature = 0.00001
+max_evaluations = 250000
+Experiment: 100-01:
+Average results: 113569.55
+Standard deviation: 25696.2540528284
